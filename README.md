@@ -1,2 +1,2 @@
 # my-project-managemt
-A repository for project and data management.
+The repository contains a collection of ideas for project and data mangement. 
